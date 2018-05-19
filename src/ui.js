@@ -19,40 +19,20 @@ const handleSelect = item => {
 
 const items = [
 	{
-		label: 'Website',
-		url: 'https://sindresorhus.com'
+		label: 'GitHub',
+		url: 'https://github.com/yyh-gl'
+	},    
+	{
+		label: 'Qiita',
+		url: 'https://qiita.com/yyh-gl'
 	},
 	{
 		label: 'Twitter',
-		url: 'https://twitter.com/sindresorhus'
+		url: 'https://twitter.com/'
 	},
 	{
-		label: 'GitHub',
-		url: 'https://github.com/sindresorhus'
-	},
-	{
-		label: 'Blog',
-		url: 'https://blog.sindresorhus.com'
-	},
-	{
-		label: 'Ask Me Anything',
-		url: 'https://github.com/sindresorhus/ama'
-	},
-	{
-		label: 'Contact',
-		url: 'https://sindresorhus.com/contact'
-	},
-	{
-		label: 'Support my open source work',
-		url: 'https://www.patreon.com/sindresorhus'
-	},
-	{
-		label: 'Unicorns!',
-		async action() {
-			console.log(await terminalImage.file(path.join(__dirname, 'unicorn1.gif')));
-			console.log(await terminalImage.file(path.join(__dirname, 'unicorn2.gif')));
-			console.log(await terminalImage.file(path.join(__dirname, 'unicorn3.gif')));
-		}
+		label: 'Facebook',
+		url: 'https://www.facebook.com/yusuke.honda.1650'
 	},
 	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
 	{
