@@ -28,7 +28,7 @@ const items = [
 	},
 	{
 		label: 'Twitter',
-		url: 'https://twitter.com/'
+		url: 'https://twitter.com/yyh_gl'
 	},
 	{
 		label: 'Facebook',
@@ -47,7 +47,7 @@ module.exports = () => (
 	<div>
 		<br/>
 		<div>
-			<Text>I’m a full-time open-sourcerer making things like macOS apps, CLI tools, and modules.</Text>
+			<Text>I’m a student developer in Kyoto.</Text>
 		</div>
 		<br/>
 		<SelectInput items={items} onSelect={handleSelect}/>
