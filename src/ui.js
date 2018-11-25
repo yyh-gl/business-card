@@ -34,10 +34,10 @@ const items = [
 		label: 'Twitter',
 		url: 'https://twitter.com/yyh_gl'
 	},
-	{
-		label: 'Facebook',
-		url: 'https://www.facebook.com/yusuke.honda.1650'
-	},
+	// {
+	// 	label: 'Facebook',
+	// 	url: 'https://www.facebook.com/yusuke.honda.1650'
+	// },
 	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
 	{
 		label: 'Quit',

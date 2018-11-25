@@ -1,7 +1,7 @@
 {
   "name": "yyh-gl",
-  "version": "3.1.0",
-  "description": "The Sindre Sorhus CLI",
+  "version": "3.1.1",
+  "description": "The yyh-gl CLI",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   },
   "author": "yyh-gl <yhonda.95.gl@gmail.com> (yyh-gl.github.com)",
   "bin": {
-    "sindresorhus": "src/cli.js"
+    "yyh-gl": "src/cli.js"
   },
   "engines": {
     "node": ">=8"
