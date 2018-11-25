@@ -21,7 +21,11 @@ const items = [
 	{
 		label: 'GitHub',
 		url: 'https://github.com/yyh-gl'
-	},    
+	},
+    {
+		label: 'Blog',
+		url: 'https://yyh-gl.hatenablog.com/'
+	},
 	{
 		label: 'Qiita',
 		url: 'https://qiita.com/yyh-gl'
