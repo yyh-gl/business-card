@@ -49,6 +49,7 @@ module.exports = () => (
 		<br/>
 		<div>
 			<Text>Enjoying engineer in Tokyo.</Text>
+			<br/>
 			<Text>If you want to know more about me, plese check my Blog.</Text>
 		</div>
 		<br/>
