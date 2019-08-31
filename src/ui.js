@@ -48,7 +48,8 @@ module.exports = () => (
 	<div>
 		<br/>
 		<div>
-			<Text>I’m a student developer in Kyoto, Japan.</Text>
+			<Text>Enjoying engineer in Tokyo.</Text>
+			<Text>If you want to know more about me, plese check my Blog.</Text>
 		</div>
 		<br/>
 		<SelectInput items={items} onSelect={handleSelect}/>
